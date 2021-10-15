@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DMMAnalog-rescue)(type Legacy)(uri ${KIPRJMOD}/DMMAnalog-rescue.lib)(options "")(descr ""))
+  (lib (name DMM-rescue)(type Legacy)(uri ${KIPRJMOD}/DMM-rescue.lib)(options "")(descr ""))
+)
