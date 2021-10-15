@@ -19,7 +19,6 @@ rather complex design. Not for beginners i suppose.
 
 Remark about the resistors: 0.1% thin film resistors are used. These have better noise preformance.
 
-
 One of the issues is calibrating, you need a accurate DVM for this.
 The calibrating itself is done using a webserver. The calibration data can be up/downloaded
 to a host. 
@@ -27,3 +26,5 @@ to a host.
 Status of the project 02-21:
 Second version. New schematics and PCB, contains corrections of the first prototype. Also better screening to reduce noise.
 Works fine, fast readings.
+
+Hardware made in Kicad.
