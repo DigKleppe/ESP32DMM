@@ -26,5 +26,4 @@ to a host.
 
 Status of the project 02-21:
 Second version. New schematics and PCB, contains corrections of the first prototype. Also better screening to reduce noise.
-Not tested yet.
-Software: todo: make some changes io-ports.
+Works fine, fast readings.
